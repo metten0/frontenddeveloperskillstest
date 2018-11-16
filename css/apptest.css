@@ -1,0 +1,91 @@
+#top-banner {
+  font-size: 23px;
+  font-family: "Open Sans";
+  background-color: rgb(255, 95, 0);
+}
+
+#banner {
+  display: inline;
+
+}
+
+#navlist li {
+  display: inline;
+  list-style-type: none;
+  padding-right: 25px;
+
+}
+
+#navcontainer {
+  background: rgb(255, 98, 0);
+}
+
+.navbar {
+  height: 75px;
+}
+
+.home-contact {
+  height: 100px;
+  padding: 25px 25px 25px 0px;
+}
+
+.navbar-header {
+  padding: 25px 25px 25px 0px;
+}
+
+#example-navbar-collapse-1 {
+  padding: 25px;
+}
+
+h2 {
+  color: rgb(255, 95, 0);
+}
+
+hr {
+  border-top: 8px solid black;
+}
+
+.btn {
+  background: rgb(255, 95, 0);
+  color: white;
+}
+
+.navbar-brand {
+  font-size: 40px;
+}
+
+#logo {
+  color: rgb(255, 98, 0);
+}
+
+.fa {
+  font-size: 35px;
+}
+
+#phone {
+  padding: 0 5px 0 0;
+}
+
+#email {
+  padding: 0 0 0 5px;
+}
+
+#header {
+  display: inline;
+}
+
+#sign {
+  margin: 0 10px 0 10px;
+  float: right;
+  color: white;
+}
+
+#login {
+  margin: 0 10px 0 10px;
+  float: right;
+  color: black;
+}
+
+#number {
+  color: white;
+}
